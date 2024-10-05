@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wordcounter/static/css/main.dc4d6ff2.css",
+    "main.js": "/wordcounter/static/js/main.9b787284.js",
+    "static/js/453.42000693.chunk.js": "/wordcounter/static/js/453.42000693.chunk.js",
+    "index.html": "/wordcounter/index.html",
+    "main.dc4d6ff2.css.map": "/wordcounter/static/css/main.dc4d6ff2.css.map",
+    "main.9b787284.js.map": "/wordcounter/static/js/main.9b787284.js.map",
+    "453.42000693.chunk.js.map": "/wordcounter/static/js/453.42000693.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.9b787284.js"
+  ]
+}
